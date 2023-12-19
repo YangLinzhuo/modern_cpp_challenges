@@ -12,6 +12,7 @@
 #include <string>
 #include <ranges>
 #include <algorithm>
+#include <numeric>
 #include <cassert>
 
 #endif //MODERN_CPP_CHALLENGES_COMMON_H
