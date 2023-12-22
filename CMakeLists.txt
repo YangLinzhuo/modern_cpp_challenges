@@ -54,3 +54,6 @@ add_executable(problem_046 src/ch06_algorithms_and_data_structures/problem_046.c
 add_executable(problem_047 src/ch06_algorithms_and_data_structures/problem_047.cpp)
 add_executable(problem_048 src/ch06_algorithms_and_data_structures/problem_048.cpp)
 add_executable(problem_049 src/ch06_algorithms_and_data_structures/problem_049.cpp)
+add_executable(problem_050 src/ch06_algorithms_and_data_structures/problem_050.cpp)
+add_executable(problem_051 src/ch06_algorithms_and_data_structures/problem_051.cpp)
+add_executable(problem_052 src/ch06_algorithms_and_data_structures/problem_052.cpp)
